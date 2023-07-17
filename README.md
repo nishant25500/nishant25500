@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishant25500&label=Profile%20views&color=0e75b6&style=flat" alt="nishant25500" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **MERN,DSA**
 
